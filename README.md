@@ -6,7 +6,7 @@
 - 🥅 2022 Goals: Learn more about Game Programming, Computer Graphics, and learn how to play an instrument called "Handpan" 🤞.
 - ⚡ I love biking, listening to music, sightseeing and enjoying life!
 
-### Languages and Tools in my toolkit:
+### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
