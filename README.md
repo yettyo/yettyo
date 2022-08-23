@@ -2,9 +2,7 @@
 ###  🌌 I'm Yener
 
 - 🏫 I’m currently a Computer Science/Engineering student at Akdeniz University.
-- 🌱 I’m currently learning about Database Management Systems and Mobile Programming.
-- 🥅 2022 Goals: Learn more about Game Programming, Computer Graphics, and learn how to play an instrument called "Handpan" 🤞.
-- ⚡ I love biking, listening to music, sightseeing and enjoying life!
+- ⚡ I love biking, listening to music, and sightseeing!
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
