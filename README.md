@@ -3,6 +3,7 @@
 
 - 🏫 I’m currently a Computer Science/Engineering student at Akdeniz University.
 - 🎮 Game Developer
+- 🤖 Discord Bot Developer
 - 🎵 Music Producer
 - ❤️ Love biking, listening to and producing music, and sightseeing!
 
