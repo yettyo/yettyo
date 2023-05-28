@@ -1,5 +1,6 @@
 ###  👋 Hi there, Welcome to my GitHub Profile! 
 ###  🌠 I'm Yener
+# itch.io profile: https://yetty0.itch.io
 
 - 🏫 I’m currently a Computer Science/Engineering student at Akdeniz University.
 - 🎮 Game Developer
