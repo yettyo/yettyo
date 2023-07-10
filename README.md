@@ -3,7 +3,7 @@
 # Personal website: https://yettyo.github.io
 # itch.io profile: https://yetty0.itch.io
 
-- 🏫 I’m currently a Computer Science/Engineering student at Akdeniz University.
+- 🏫 Computer Science/Engineering student at Akdeniz University.
 - 🎮 Game Developer
 - 🤖 Discord Bot Developer
 - 🎵 Music Producer
